@@ -1,0 +1,14 @@
+ <?xml version="1.0" encoding="utf-8"?>
+ 
+  <people>
+  <person id="504" tarih="05.08.2011">
+  <name>Rohi</name>
+  <surname>jadhav</surname>
+  <telephone>9511739373</telephone>
+  </person>
+  <person id="504" tarih="05.09.2011">
+   <name>rohini</name>
+  <surname>jadhav</surname>
+  <telephone>9623522753</telephone>
+  </person>
+  </people>
