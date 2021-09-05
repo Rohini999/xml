@@ -1,0 +1,6 @@
+1 <!DOCTYPE note SYSTEM "note.dtd">
+2 <!ELEMENT note (to,from,heading,body)>
+3 <!ELEMENT to (#PCDATA)>
+4 <!ELEMENT from (#PCDATA)>
+5 <!ELEMENT heading (#PCDATA)>
+6 <!ELEMENT body (#PCDATA)>
